@@ -1,4 +1,4 @@
-# Scripts for Validator node
+# WOA Scripts for Validator node
 
 ## Transfer of reward from mining key to payout key
 
